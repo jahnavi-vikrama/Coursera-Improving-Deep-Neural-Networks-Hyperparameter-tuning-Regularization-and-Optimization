@@ -1,5 +1,7 @@
 # Coursera-Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization
 
+**Certificate**: https://coursera.org/share/e6f9740eee70fad99057238a58c5b0df
+
 ## Week 1
 Explored Initialization Techniques: I examined various initialization methods, demonstrating how approaches like zeros initialization, random initialization, and He initialization yield different outcomes in model performance. I found that proper initialization can significantly impact convergence speed and model accuracy.
 
