@@ -2,7 +2,7 @@
 
 **Certificate**: https://coursera.org/share/e6f9740eee70fad99057238a58c5b0df
 
-##Week 1
+## Week 1
 
 Explored Initialization Techniques: Various initialization methods were examined, demonstrating how approaches like zeros initialization, random initialization, and He initialization yield different outcomes in model performance. Proper initialization significantly impacts convergence speed and model accuracy.
 
@@ -20,7 +20,7 @@ Gradient Checking Implementation: Gradient checking was implemented to verify th
 
 Regularization Application: Regularization techniques were applied to a deep learning model, successfully improving its performance and robustness.
 
-##Week 2
+## Week 2
 
 Optimization Techniques: Various optimization methods, including Stochastic Gradient Descent, Momentum, RMSProp, and Adam, were applied, comparing their effectiveness and convergence properties in different scenarios.
 
@@ -28,7 +28,7 @@ Use of Minibatches: Random minibatches were utilized to enhance convergence spee
 
 Learning Rate Decay: The benefits of learning rate decay were described and implemented in optimization strategies, resulting in more stable and efficient training.
 
-##Week 3
+## Week 3
 
 Hyperparameter Tuning Mastery: Mastery of hyperparameter tuning was achieved by employing techniques to systematically explore and optimize parameters for better model performance.
 
